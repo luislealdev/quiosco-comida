@@ -47,3 +47,11 @@ Se agregó el diseño de las categorias en el sidebar, así como el routing din�
 Autor: Luis Leal <luisrrleal@gmail.com>
 
 Fecha: Domingo 2 Junio 2024 11:42pm
+
+---
+
+Se agregó el diseño de los productos, además del renderizado dependiendo de la categoría y algunos detalles de experiencia de usuario (commit _3d88d30..1f2f02e_) (main -> main)
+
+Autor: Luis Leal <luisrrleal@gmail.com>
+
+Fecha: Lunes 3 Junio 2024 12:05am
