@@ -31,3 +31,11 @@ Se agregó el diseño UI de los pedidos para el usuario (commit _18f5e7ffceb2b69
 Autor: Luis Leal <luisrrleal@gmail.com>
 
 Fecha: Domingo 2 Junio 20:30:40 2024
+
+---
+
+Se agregó prisma como ORM para conexión a la base de datos de mongo, así como un archivo nuevo de docker para la creación de un contenedor de postgresql (commit _ea5bc86..30e4eae_) (main -> main)
+
+Autor: Luis Leal <luisrrleal@gmail.com>
+
+Fecha: Domingo 2 Junio 2024 11:17pm
