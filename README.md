@@ -39,3 +39,11 @@ Se agregó prisma como ORM para conexión a la base de datos de mongo, así como
 Autor: Luis Leal <luisrrleal@gmail.com>
 
 Fecha: Domingo 2 Junio 2024 11:17pm
+
+---
+
+Se agregó el diseño de las categorias en el sidebar, así como el routing dinámico de las mismas (commit _4408d98..a6a5a47_) (main -> main)
+
+Autor: Luis Leal <luisrrleal@gmail.com>
+
+Fecha: Domingo 2 Junio 2024 11:42pm
