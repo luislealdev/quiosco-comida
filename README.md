@@ -2,7 +2,15 @@ Este es un proyecto desarrollado por [luisrrleal.com](https://luisrrleal.com)
 
 ## Utilizar el proyecto
 
-Lo primero, corre el proyecto en desarrollo:
+1. Renombra el archivo .env.template a .env y declara tus variables de entorno
+
+_En caso de no tener una base de datos_, configura el archivo docker-compose.yml y levanta el contenedor con
+
+```bash
+docker-compose up -d
+```
+
+2. Correr el proyecto en desarrollo:
 
 ```bash
 npm run dev
@@ -23,9 +31,3 @@ Se agregó el diseño UI de los pedidos para el usuario (commit _18f5e7ffceb2b69
 Autor: Luis Leal <luisrrleal@gmail.com>
 
 Fecha: Domingo 2 Junio 20:30:40 2024
-
-
-
-
-
-
