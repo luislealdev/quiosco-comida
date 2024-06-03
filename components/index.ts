@@ -1,2 +1,3 @@
-export * from './OrderSidebar';
-export * from './OrderSummary';
+export * from './order/OrderSidebar';
+export * from './order/OrderSummary';
+export * from './ui/CategoryIcon';
