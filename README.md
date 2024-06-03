@@ -55,3 +55,11 @@ Se agregó el diseño de los productos, además del renderizado dependiendo de l
 Autor: Luis Leal <luisrrleal@gmail.com>
 
 Fecha: Lunes 3 Junio 2024 12:05am
+
+---
+
+Se agregó un store para todo el sistema del quisco principal, permite agregar productos, modificar cantidades, calcular subtotales y total. (commit _a15fdab..75db813_) (main -> main)
+
+Autor: Luis Leal <luisrrleal@gmail.com>
+
+Fecha: Lunes 3 Junio 2024 10:15am
