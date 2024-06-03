@@ -21,7 +21,7 @@ export default async function Home({ params }: { params: { category: string } })
   return (
     <div className="flex gap-15" style={{ width: '100vw', height: '100vh' }}>
       <OrderSidebar />
-      <main style={{ width: '55%' }} className="p-10">
+      <main style={{ width: '55%', overflow: 'scroll' }} className="p-10">
         <h1 className="f-size-18">Elige y personaliza tu pedido a continuación</h1>
         <div className="grid-c-3 gap-15 mt-20">
           {
