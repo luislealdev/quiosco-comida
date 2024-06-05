@@ -87,3 +87,12 @@ Ahora es posible la creación de productos mediante el panel de administrador, a
 Autor: Luis Leal <luisrrleal@gmail.com>
 
 Fecha: Miércoles 5 Junio 2024 10:26pm
+
+## Futuras actualizaciones
+Debido a los tiempos de desarrollo del programa, no todo se ha podido implementar de la manera esperada, sin embargo como futuras actualizaciones se plantea:
+
+- Edición de proyectos
+- Órdenes nuevas
+- Órdenes listas
+
+Además, el proyecto se puede llevar a producción mediante tecnologías como Vercel (Hosting y postgres) utilizando una conexión directa con github.
