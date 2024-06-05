@@ -5,6 +5,12 @@ export const orderSchema = z.object({
     total: z.number().min(1, "Hay errores en la órden"),
     order: z.array(z.object({ id: z.number(), quantity: z.number(), name: z.string(), price: z.number(), subtotal: z.number() }))
 });
+
 export const OrderIdSchema = z.object({
     orderId: z.string().transform((val) => parseInt(val)).refine((val) => val > 0, { message: "Hay erroes" })
 })
+
+export const SearchSchema = z.object({
+    search: z.string().trim().min(1, "La búsqueda no puede ir vacía")
+});
+

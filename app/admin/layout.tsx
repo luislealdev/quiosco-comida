@@ -13,7 +13,7 @@ export default async function AdminLayout({
                     <AdminSidebar />
                 </aside>
 
-                <main className="flex p-20" style={{ overflowY: 'scroll' }}>
+                <main className="flex p-20" style={{ overflowY: 'scroll', width: '74%' }}>
                     {children}
                 </main>
             </div>
