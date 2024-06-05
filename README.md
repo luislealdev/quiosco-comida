@@ -63,3 +63,11 @@ Se agregó un store para todo el sistema del quisco principal, permite agregar p
 Autor: Luis Leal <luisrrleal@gmail.com>
 
 Fecha: Lunes 3 Junio 2024 10:15am
+
+---
+
+Se agregó el panel de administrador donde se permite ver las órdenes y marcarlas como completadas. (commit 48f1d6e..46c7b9c)  (main -> main)
+
+Autor: Luis Leal <luisrrleal@gmail.com>
+
+Fecha: Martes 4 Junio 2024 09:25pm
